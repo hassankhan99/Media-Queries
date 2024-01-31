@@ -63,7 +63,7 @@ body{
     display: none;
 }
 
-@media(max-width: 200px){
+@media(max-width: 500px){
     ul{
         display: none;
     }
